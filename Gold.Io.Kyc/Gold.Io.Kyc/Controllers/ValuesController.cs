@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Gold.Io.Kyc.Controllers
+namespace Gold.IO.Kyc.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

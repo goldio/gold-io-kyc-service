@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace Gold.Io.Kyc
+namespace Gold.IO.Kyc
 {
     public class Program
     {
