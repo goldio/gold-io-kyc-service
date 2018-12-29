@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gold.Io.Kyc", "Gold.Io.Kyc\Gold.Io.Kyc.csproj", "{2EBE3954-4804-40BF-99FB-1A5CC7021A93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gold.Io.Kyc.Models", "Gold.Io.Kyc.Models\Gold.Io.Kyc.Models.csproj", "{625BA148-D368-4D00-8C56-14E834A2C7D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2EBE3954-4804-40BF-99FB-1A5CC7021A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EBE3954-4804-40BF-99FB-1A5CC7021A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EBE3954-4804-40BF-99FB-1A5CC7021A93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{625BA148-D368-4D00-8C56-14E834A2C7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625BA148-D368-4D00-8C56-14E834A2C7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625BA148-D368-4D00-8C56-14E834A2C7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625BA148-D368-4D00-8C56-14E834A2C7D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
