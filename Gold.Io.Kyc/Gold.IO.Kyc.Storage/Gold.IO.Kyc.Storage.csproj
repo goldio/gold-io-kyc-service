@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Gold.Io.Kyc.Models\Gold.IO.Kyc.Models.csproj" />
+  </ItemGroup>
+
 </Project>
